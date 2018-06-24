@@ -1,4 +1,4 @@
-package java.customers;
+package com.hello;
 
 import org.springframework.data.annotation.Id;
 
